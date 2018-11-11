@@ -1,4 +1,4 @@
-# JavaScript Jest Example
+# JavaScript Portage Calculator Template
 
 This is a template for writing a portage calculator function in JavaScript
 guided by tests with [Jest](https://jestjs.io/).
