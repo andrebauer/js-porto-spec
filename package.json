@@ -1,14 +1,14 @@
 {
   "name": "js-jest-skeleton",
   "version": "0.1.0",
-  "description": "Skeleton for writing JavaScript-Applications guided by tests with Jest.",
+  "description": "Skeleton for writing a portage calculator guided by tests.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrebauer/js-jest-skeleton.git"
+    "url": "git+https://github.com/andrebauer/js-porto-spec.git"
   },
   "keywords": [
     "jest",
@@ -18,9 +18,9 @@
   "author": "André Bauer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrebauer/js-jest-skeleton/issues"
+    "url": "https://github.com/andrebauer/js-porto-spec/issues"
   },
-  "homepage": "https://github.com/andrebauer/js-jest-skeleton#readme",
+  "homepage": "https://github.com/andrebauer/js-proto-spec#readme",
   "devDependencies": {
     "jest": "^23.6.0",
     "jest-chain": "^1.0.5",
